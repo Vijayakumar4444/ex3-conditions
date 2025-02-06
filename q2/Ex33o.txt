@@ -1,0 +1,8 @@
+Enter your age34
+you are elligible for voting
+
+=== Code Execution Successful ===
+Enter your age12
+you are nopt elligible for voting
+
+=== Code Execution Successful ===
