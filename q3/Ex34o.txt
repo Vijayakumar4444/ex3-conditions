@@ -1,0 +1,8 @@
+Enter your marks87
+B grade
+
+=== Code Execution Successful ===
+Enter your marks54
+Fail
+
+=== Code Execution Successful ===
