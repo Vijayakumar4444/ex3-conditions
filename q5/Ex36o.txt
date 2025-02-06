@@ -1,0 +1,8 @@
+Enter the day number:6
+It is Saturday
+
+=== Code Execution Successful ===
+Enter the day number:1
+It is Monday
+
+=== Code Execution Successful ===
