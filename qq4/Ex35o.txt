@@ -1,0 +1,21 @@
+Enter a operator:+
+Enter any two numbers:
+45
+56
+the value is:101
+
+=== Code Execution Successful ===
+Enter a operator:*
+Enter any two numbers:
+34
+47
+the value is:1598
+
+=== Code Execution Successful ===
+Enter a operator:%
+Enter any two numbers:
+56
+34
+Invalid Operator
+
+=== Code Execution Successful ===
